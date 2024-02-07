@@ -10,6 +10,7 @@ while i >0:
 		if i > 0:
 			print('密碼錯誤！你還有', i, '次機會')	
 		else:
+			print('你沒機會了！拜拜！')
 			break	
 
 
